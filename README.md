@@ -1,4 +1,9 @@
-# crash2021
+# VUE-TASK-REMINDER-APP
+
+Check it out here!!!! 
+```
+https://vue-taskreminder.netlify.app/
+```
 
 ## Project setup
 ```
